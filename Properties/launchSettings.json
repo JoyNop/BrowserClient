@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JoyNop Windows": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
